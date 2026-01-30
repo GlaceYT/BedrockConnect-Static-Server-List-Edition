@@ -2,7 +2,7 @@
 
 ![Logo](https://i.ibb.co/GfTxbJfC/7-edited.png)
 
-# 🎵 PrimeMusic - Advanced Lavalink Music Bot
+# BedrockConnect - Static-Server-List-Edition
 
 ![Version](https://img.shields.io/badge/version-1.4-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
