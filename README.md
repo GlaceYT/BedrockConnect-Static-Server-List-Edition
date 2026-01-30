@@ -10,7 +10,7 @@
 ![Minecraft%20Bedrock](https://img.shields.io/badge/Minecraft-Bedrock-62B47A?logo=minecraft)
 ![JSON](https://img.shields.io/badge/Config-JSON-black?logo=json)
 
-**A feature-rich, high-performance Discord music bot built with Lavalink and Discord.js v2 Components**
+**A customized version of BedrockConnect with a locked, admin-controlled server list.**
 
 ---
 
