@@ -4,7 +4,7 @@
 
 # BedrockConnect - Static-Server-List-Edition
 
-![Version](https://img.shields.io/badge/version-1.4-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=java)
 ![Minecraft%20Bedrock](https://img.shields.io/badge/Minecraft-Bedrock-62B47A?logo=minecraft)
