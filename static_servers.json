@@ -1,0 +1,42 @@
+{
+  "showExitButton": false,
+  "showServerStatus": true,
+  "servers": [
+    {
+      "name": "GlaceYT",
+      "address": "bmc.mc-complex.com",
+      "port": 19132,
+      "iconUrl": "https://i.imgur.com/RfxfPGz.png"
+    },
+    {
+      "name": "Creative World",
+      "address": "creative.myserver.com",
+      "port": 19132,
+      "iconUrl": "https://i.imgur.com/nhumQVP.png"
+    },
+    {
+      "name": "Minigames Hub",
+      "address": "minigames.myserver.com",
+      "port": 19133,
+      "iconUrl": "https://i.imgur.com/RfxfPGz.png"
+    },
+    {
+      "name": "VIP Lounge",
+      "address": "vip.myserver.com",
+      "port": 19134,
+      "iconUrl": "https://i.imgur.com/aFH1NUr.png",
+      "rankName": "VIP",
+      "rankColor": "§6",
+      "allowedPlayers": ["DARLING3734", "VIPPlayer1", "VIPPlayer2"]
+    },
+    {
+      "name": "Staff Server",
+      "address": "staff.myserver.com",
+      "port": 19135,
+      "iconUrl": "https://i.imgur.com/0K4TDut.png",
+      "rankName": "Staff",
+      "rankFormat": "§8[§c§lSTAFF§8]",
+      "allowedPlayers": ["DARLING3734", "Admin1", "Moderator1"]
+    }
+  ]
+}
