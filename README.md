@@ -22,6 +22,4 @@
 
 ---
 
-[Features](#-features) • [Installation](#-installation) • [Configuration](#-configuration) • [Usage](#-usage) • [Support](#-support)
-
 </div>
