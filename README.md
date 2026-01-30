@@ -6,8 +6,9 @@
 
 ![Version](https://img.shields.io/badge/version-1.4-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Node](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)
-![Discord.js](https://img.shields.io/badge/discord.js-14.25.1-blue.svg)
+![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=java)
+![Minecraft%20Bedrock](https://img.shields.io/badge/Minecraft-Bedrock-62B47A?logo=minecraft)
+![JSON](https://img.shields.io/badge/Config-JSON-black?logo=json)
 
 **A feature-rich, high-performance Discord music bot built with Lavalink and Discord.js v2 Components**
 
