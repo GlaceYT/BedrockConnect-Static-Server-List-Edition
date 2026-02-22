@@ -1,42 +1,115 @@
-{
-  "showExitButton": false,
-  "showServerStatus": true,
-  "servers": [
-    {
-      "name": "GlaceYT",
-      "address": "bmc.mc-complex.com",
-      "port": 19132,
-      "iconUrl": "https://i.imgur.com/RfxfPGz.png"
-    },
-    {
-      "name": "Creative World",
-      "address": "creative.myserver.com",
-      "port": 19132,
-      "iconUrl": "https://i.imgur.com/nhumQVP.png"
-    },
-    {
-      "name": "Minigames Hub",
-      "address": "minigames.myserver.com",
-      "port": 19133,
-      "iconUrl": "https://i.imgur.com/RfxfPGz.png"
-    },
-    {
-      "name": "VIP Lounge",
-      "address": "vip.myserver.com",
-      "port": 19134,
-      "iconUrl": "https://i.imgur.com/aFH1NUr.png",
-      "rankName": "VIP",
-      "rankColor": "§6",
-      "allowedPlayers": ["DARLING3734", "VIPPlayer1", "VIPPlayer2"]
-    },
-    {
-      "name": "Staff Server",
-      "address": "staff.myserver.com",
-      "port": 19135,
-      "iconUrl": "https://i.imgur.com/0K4TDut.png",
-      "rankName": "Staff",
-      "rankFormat": "§8[§c§lSTAFF§8]",
-      "allowedPlayers": ["DARLING3734", "Admin1", "Moderator1"]
-    }
-  ]
-}
+[
+  {
+    "name": "Public Servers",
+    "iconUrl": "https://i.imgur.com/3BmFZRE.png",
+    "content": [
+      {
+        "name": "GlaceYT SMP",
+        "address": "play.glaceyt.com",
+        "port": 19132,
+        "iconUrl": "https://i.imgur.com/nhumQVP.png"
+      },
+      {
+        "name": "GlaceYT Minigames",
+        "address": "play.glaceyt.com",
+        "port": 19133,
+        "iconUrl": "https://i.imgur.com/RfxfPGz.png"
+      },
+      {
+        "name": "GlaceYT Skyblock",
+        "address": "play.glaceyt.com",
+        "port": 19134,
+        "iconUrl": "https://i.imgur.com/aFH1NUr.png"
+      }
+    ]
+  },
+  {
+    "name": "Event Servers",
+    "iconUrl": "https://i.imgur.com/0K4TDut.png",
+    "content": [
+      {
+        "name": "Build Competition",
+        "address": "events.glaceyt.com",
+        "port": 19132,
+        "iconUrl": "https://i.imgur.com/nhumQVP.png",
+        "allowedPlayers": [
+          "GlaceYT",
+          "Player1",
+          "Player2",
+          "Player3"
+        ]
+      },
+      {
+        "name": "PvP Tournament",
+        "address": "events.glaceyt.com",
+        "port": 19133,
+        "iconUrl": "https://i.imgur.com/RfxfPGz.png"
+      }
+    ]
+  },
+  {
+    "name": "VIP Servers",
+    "iconUrl": "https://i.imgur.com/aFH1NUr.png",
+    "content": [
+      {
+        "name": "VIP Lounge",
+        "address": "vip.glaceyt.com",
+        "port": 19132,
+        "iconUrl": "https://i.imgur.com/nhumQVP.png",
+        "rankName": "VIP",
+        "rankColor": "§6",
+        "allowedPlayers": [
+          "GlaceYT",
+          "VIPPlayer1",
+          "VIPPlayer2"
+        ]
+      },
+      {
+        "name": "VIP Creative",
+        "address": "vip.glaceyt.com",
+        "port": 19133,
+        "iconUrl": "https://i.imgur.com/3BmFZRE.png",
+        "rankName": "VIP+",
+        "rankFormat": "§8[§e§lVIP+§8]",
+        "allowedPlayers": [
+          "GlaceYT",
+          "VIPPlayer1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Staff Servers",
+    "iconUrl": "https://i.imgur.com/0K4TDut.png",
+    "content": [
+      {
+        "name": "Staff Hub",
+        "address": "staff.glaceyt.com",
+        "port": 19132,
+        "iconUrl": "https://i.imgur.com/RfxfPGz.png",
+        "rankName": "STAFF",
+        "rankFormat": "§8[§c§lSTAFF§8]",
+        "allowedPlayers": [
+          "GlaceYT",
+          "Moderator1",
+          "Admin1"
+        ]
+      },
+      {
+        "name": "GlaceYT Private",
+        "address": "private.glaceyt.com",
+        "port": 19132,
+        "iconUrl": "https://i.imgur.com/aFH1NUr.png",
+        "rankName": "OWNER",
+        "rankFormat": "§8[§4§lOWNER§8]",
+        "allowedPlayers": [
+          "GlaceYT"
+        ],
+        "blockedPlayers": [
+          "TrollPlayer",
+          "BannedGuy"
+        ]
+      }
+    ]
+  }
+]
