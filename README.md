@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.ibb.co/GfTxbJfC/7-edited.png" alt="Banner" width="100%"/>
+</div>
 # BedrockConnect - Static Server List Edition
 
 A customized version of [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) with a **locked, admin-controlled server list**, **server groups/categories**, **rank-based access control**, and **live server status pinging**.
