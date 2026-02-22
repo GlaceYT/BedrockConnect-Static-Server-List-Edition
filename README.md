@@ -25,7 +25,7 @@ A customized version of [BedrockConnect](https://github.com/Pugmatt/BedrockConne
 ## 📦 What's Included
 
 ```
-├── BedrockConnect-1.0-SNAPSHOT.jar    ← The server (run this)
+├── BedrockConnectLatest.jar    ← The server (run this)
 └── static_servers.json                ← Your server config (edit this)
 ```
 
